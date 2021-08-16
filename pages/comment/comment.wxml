@@ -1,0 +1,12 @@
+<!--pages/comment/comment.wxml-->
+<view>
+    <view class="top">
+        <view class="head_portrait"></view>
+        <view></view>
+        <view></view>
+    </view>
+    <view></view>
+    <view></view>
+    <view></view>
+    <view></view>
+</view>
